@@ -1,1 +1,1 @@
-Isometric Media Icons
+Isometric Media Icons [Not Responsive]
